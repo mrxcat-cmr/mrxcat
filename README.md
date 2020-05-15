@@ -1,4 +1,4 @@
-MRXCAT - A Matlab software for numerical simulation of cardiac MRI
+MRXCAT - Matlab code for numerical CMR simulation
 ==========================================================================
 
 MRXCAT is a Matlab toolbox for realistic numerical simulation of cardiac 
@@ -80,14 +80,11 @@ Contact details
 ===============
 For anything related to MRXCAT:
 
-Lukas Wissmann: 
-mrxcat.cmr@gmail.com
+Lukas Wissmann, mrxcat.cmr@gmail.com
 
 For project updates:
-Sebastian Kozerke
-Institute for Biomedical Engineering
-University and ETH Zurich
-kozerke@biomed.ee.ethz.ch
+
+Sebastian Kozerke, Institute for Biomedical Engineering, University and ETH Zurich, kozerke@biomed.ee.ethz.ch
 
 Note about XCAT
 ===============
